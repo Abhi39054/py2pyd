@@ -81,6 +81,8 @@ Choose **"Desktop development with C++"**
   ✅ Visual C++ core desktop features  
   ✅ MSVC v143 - VS 2022 C++ x64/x86 build tools (Latest)
   ✅ Windows 11 SDK (10.0.26100.0 or later)
+  ✅ MSVC Build Tools for x64/x86 (Latest)
+  ✅ Testing tool core features - Build Tool
 ```
 
 ## Quick start
